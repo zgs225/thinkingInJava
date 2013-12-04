@@ -2,9 +2,7 @@ package PossessObject;
 
 import utils.PrintUtil;
 
-import java.util.ArrayList;
-import java.util.Iterator;
-import java.util.List;
+import java.util.*;
 
 public class Gerbil {
     private static long counter;
@@ -30,15 +28,14 @@ public class Gerbil {
     }
 
     public static void main(String[] args) {
-        List<Gerbil> gerbils = new ArrayList<Gerbil>();
+        Map<String, Gerbil> gerbilMap = new HashMap<String, Gerbil>();
         for(int i=0; i<5; i++) {
-            gerbils.add(new Gerbil());
+            gerbilMap.put("gerbil" + String.valueOf(i), new Gerbil());
         }
-
-        for(Gerbil b : gerbils) {
-            b.hope();
+        Set<String> names = gerbilMap.keySet();
+        for (String key : names) {
+            PrintUtil.print(key);
+            gerbilMap.get(key).hope();
         }
-
-        Gerbil.hope(gerbils.iterator());
     }
 }
