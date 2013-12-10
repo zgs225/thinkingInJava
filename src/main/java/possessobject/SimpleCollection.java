@@ -1,4 +1,4 @@
-package PossessObject;
+package possessobject;
 
 import java.util.HashSet;
 import java.util.Set;

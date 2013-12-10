@@ -1,4 +1,4 @@
-package PossessObject;
+package possessobject;
 
 import utils.PrintUtil;
 
