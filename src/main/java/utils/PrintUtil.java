@@ -21,4 +21,16 @@ public class PrintUtil {
     public static void print(Object o) {
         System.out.println(o);
     }
+
+    public static void print(Boolean b) {
+        System.out.println(b);
+    }
+
+    public static void print(Double d) {
+        System.out.println(d);
+    }
+
+    public static void print(int i) {
+        System.out.println(i);
+    }
 }

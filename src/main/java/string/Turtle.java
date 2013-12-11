@@ -1,6 +1,5 @@
-package String;
+package string;
 
-import java.io.PrintStream;
 import java.util.Formatter;
 
 /**
