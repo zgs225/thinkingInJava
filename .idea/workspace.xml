@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6a8c2c4-942e-494c-a849-e7858f4eeb27" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/possessobject/CommandExecutor.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/possessobject/SimplePriorityQueue.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/possessobject/CommandExecutor.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ThinkingInJava.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -62,6 +62,20 @@
     <file path="/Position.java" changelist="d6a8c2c4-942e-494c-a849-e7858f4eeb27" time="1387286753765" ignored="false" />
     <file path="/Staff.java" changelist="d6a8c2c4-942e-494c-a849-e7858f4eeb27" time="1387287417382" ignored="false" />
     <file path="/HiddenMethods.java" changelist="d6a8c2c4-942e-494c-a849-e7858f4eeb27" time="1387289459609" ignored="false" />
+    <file path="/TwoTuple.java" changelist="d6a8c2c4-942e-494c-a849-e7858f4eeb27" time="1387369896788" ignored="false" />
+    <file path="/TupleTest.java" changelist="d6a8c2c4-942e-494c-a849-e7858f4eeb27" time="1387370060172" ignored="false" />
+    <file path="/LinkedStack.java" changelist="d6a8c2c4-942e-494c-a849-e7858f4eeb27" time="1387370761775" ignored="false" />
+    <file path="/RandomList.java" changelist="d6a8c2c4-942e-494c-a849-e7858f4eeb27" time="1387371656263" ignored="false" />
+    <file path="/Generator.java" changelist="d6a8c2c4-942e-494c-a849-e7858f4eeb27" time="1387371867227" ignored="false" />
+    <file path="/Coffee.java" changelist="d6a8c2c4-942e-494c-a849-e7858f4eeb27" time="1387372092011" ignored="false" />
+    <file path="/Latte.java" changelist="d6a8c2c4-942e-494c-a849-e7858f4eeb27" time="1387372151034" ignored="false" />
+    <file path="/Mocha.java" changelist="d6a8c2c4-942e-494c-a849-e7858f4eeb27" time="1387372177382" ignored="false" />
+    <file path="/Americano.java" changelist="d6a8c2c4-942e-494c-a849-e7858f4eeb27" time="1387372203869" ignored="false" />
+    <file path="/Breve.java" changelist="d6a8c2c4-942e-494c-a849-e7858f4eeb27" time="1387372231405" ignored="false" />
+    <file path="/CoffeeGenerator.java" changelist="d6a8c2c4-942e-494c-a849-e7858f4eeb27" time="1387373113147" ignored="false" />
+    <file path="/Fibonacci.java" changelist="d6a8c2c4-942e-494c-a849-e7858f4eeb27" time="1387373554009" ignored="false" />
+    <file path="/IterableFibonacci.java" changelist="d6a8c2c4-942e-494c-a849-e7858f4eeb27" time="1387374652878" ignored="false" />
+    <file path="/GenericMethods.java" changelist="d6a8c2c4-942e-494c-a849-e7858f4eeb27" time="1387375289094" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,55 +141,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="CharArrayIsObject.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/typeinfo/CharArrayIsObject.java">
+      <file leaf-file-name="TwoTuple.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/generics/TwoTuple.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="34" selection-start="218" selection-end="218" vertical-scroll-proportion="0.0">
+            <state line="19" column="20" selection-start="361" selection-end="361" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TypeCounter.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/typeinfo/TypeCounter.java">
+      <file leaf-file-name="TupleTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/generics/TupleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="32" selection-start="1355" selection-end="1355" vertical-scroll-proportion="0.0">
+            <state line="21" column="19" selection-start="490" selection-end="490" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Part.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/typeinfo/Part.java">
+      <file leaf-file-name="LinkedStack.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/generics/LinkedStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="48" selection-start="584" selection-end="584" vertical-scroll-proportion="0.0">
+            <state line="37" column="39" selection-start="825" selection-end="825" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RegisteredFactories.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/typeinfo/RegisteredFactories.java">
+      <file leaf-file-name="RandomList.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/generics/RandomList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="4" selection-start="309" selection-end="309" vertical-scroll-proportion="0.0">
+            <state line="26" column="39" selection-start="661" selection-end="661" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ShowMethods.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/typeinfo/ShowMethods.java">
+      <file leaf-file-name="Generator.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/generics/Generator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="42" selection-start="1345" selection-end="1345" vertical-scroll-proportion="0.0">
+            <state line="8" column="15" selection-start="121" selection-end="121" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DynamicProxyHandler.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/typeinfo/DynamicProxyHandler.java">
+      <file leaf-file-name="Coffee.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/generics/coffee/Coffee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="42" selection-start="1319" selection-end="1319" vertical-scroll-proportion="0.0">
+            <state line="13" column="4" selection-start="301" selection-end="301" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CoffeeGenerator.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/generics/coffee/CoffeeGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="43" column="41" selection-start="1142" selection-end="1142" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -183,28 +206,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Person.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/typeinfo/nullobject/Person.java">
+      <file leaf-file-name="Fibonacci.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/generics/Fibonacci.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="54" selection-start="736" selection-end="736" vertical-scroll-proportion="0.0">
+            <state line="8" column="1" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Position.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/typeinfo/nullobject/Position.java">
+      <file leaf-file-name="IterableFibonacci.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/generics/IterableFibonacci.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="45" selection-start="567" selection-end="567" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Staff.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/typeinfo/nullobject/Staff.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="41" selection-start="1208" selection-end="1208" vertical-scroll-proportion="0.0">
+            <state line="56" column="32" selection-start="1233" selection-end="1233" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -212,10 +226,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HiddenMethods.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/typeinfo/HiddenMethods.java">
+      <file leaf-file-name="GenericMethods.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/generics/GenericMethods.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="22" selection-start="41" selection-end="41" vertical-scroll-proportion="0.043336947">
+            <state line="19" column="0" selection-start="450" selection-end="450" vertical-scroll-proportion="0.6440678">
               <folding />
             </state>
           </provider>
@@ -308,22 +322,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/typeinfo/ToyTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/typeinfo/PrintSuperClass.java" />
-        <option value="$PROJECT_DIR$/src/main/java/typeinfo/CharArrayIsObject.java" />
-        <option value="$PROJECT_DIR$/src/main/java/typeinfo/TypeCounter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/typeinfo/factory/Factory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/typeinfo/Part.java" />
-        <option value="$PROJECT_DIR$/src/main/java/typeinfo/RegisteredFacotires.java" />
-        <option value="$PROJECT_DIR$/src/main/java/typeinfo/RegisteredFactories.java" />
-        <option value="$PROJECT_DIR$/src/main/java/typeinfo/ShowMethods.java" />
-        <option value="$PROJECT_DIR$/src/main/java/typeinfo/Interface.java" />
-        <option value="$PROJECT_DIR$/src/main/java/typeinfo/DynamicProxyHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/typeinfo/nullobject/Null.java" />
-        <option value="$PROJECT_DIR$/src/main/java/typeinfo/nullobject/Person.java" />
-        <option value="$PROJECT_DIR$/src/main/java/typeinfo/nullobject/Position.java" />
-        <option value="$PROJECT_DIR$/src/main/java/typeinfo/nullobject/Staff.java" />
         <option value="$PROJECT_DIR$/src/main/java/typeinfo/HiddenMethods.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generics/TwoTuple.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generics/TupleTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generics/LinkedStack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generics/RandomList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generics/Generator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generics/Coffee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generics/coffee/Latte.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generics/coffee/Mocha.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generics/coffee/Americano.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generics/coffee/Breve.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generics/coffee/Coffee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generics/coffee/CoffeeGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generics/Fibonacci.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generics/IterableFibonacci.java" />
+        <option value="$PROJECT_DIR$/src/main/java/generics/GenericMethods.java" />
       </list>
     </option>
   </component>
@@ -425,38 +439,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="typeinfo" />
+              <option name="myItemId" value="generics" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ThinkingInJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ThinkingInJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="typeinfo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HiddenMethods.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -483,15 +467,15 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
   </component>
-  <component name="RunManager" selected="Application.test">
-    <configuration default="false" name="RegisteredFactories" type="Application" factoryName="Application" temporary="true">
+  <component name="RunManager" selected="Application.GenericMethods">
+    <configuration default="false" name="RandomList" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="typeinfo.*" />
+          <option name="PATTERN" value="generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="typeinfo.RegisteredFactories" />
+      <option name="MAIN_CLASS_NAME" value="generics.RandomList" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -506,14 +490,14 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="ShowMethods" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="CoffeeGenerator" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="typeinfo.*" />
+          <option name="PATTERN" value="generics.coffee.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="typeinfo.ShowMethods" />
+      <option name="MAIN_CLASS_NAME" value="generics.coffee.CoffeeGenerator" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -528,14 +512,14 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="SimpleDynamicProxy" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="Fibonacci" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="typeinfo.*" />
+          <option name="PATTERN" value="generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="typeinfo.SimpleDynamicProxy" />
+      <option name="MAIN_CLASS_NAME" value="generics.Fibonacci" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -550,14 +534,14 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="Staff" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="IterableFibonacci" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="typeinfo.nullobject.*" />
+          <option name="PATTERN" value="generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="typeinfo.nullobject.Staff" />
+      <option name="MAIN_CLASS_NAME" value="generics.IterableFibonacci" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -572,14 +556,14 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="test" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="GenericMethods" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="typeinfo.*" />
+          <option name="PATTERN" value="generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="typeinfo.test" />
+      <option name="MAIN_CLASS_NAME" value="generics.GenericMethods" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -686,19 +670,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.RegisteredFactories" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ShowMethods" />
-      <item index="2" class="java.lang.String" itemvalue="Application.SimpleDynamicProxy" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Staff" />
-      <item index="4" class="java.lang.String" itemvalue="Application.test" />
+      <item index="0" class="java.lang.String" itemvalue="Application.RandomList" />
+      <item index="1" class="java.lang.String" itemvalue="Application.CoffeeGenerator" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Fibonacci" />
+      <item index="3" class="java.lang.String" itemvalue="Application.IterableFibonacci" />
+      <item index="4" class="java.lang.String" itemvalue="Application.GenericMethods" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.test" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Staff" />
-        <item index="2" class="java.lang.String" itemvalue="Application.SimpleDynamicProxy" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ShowMethods" />
-        <item index="4" class="java.lang.String" itemvalue="Application.RegisteredFactories" />
+        <item index="0" class="java.lang.String" itemvalue="Application.GenericMethods" />
+        <item index="1" class="java.lang.String" itemvalue="Application.IterableFibonacci" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Fibonacci" />
+        <item index="3" class="java.lang.String" itemvalue="Application.CoffeeGenerator" />
+        <item index="4" class="java.lang.String" itemvalue="Application.RandomList" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -717,7 +701,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="51" y="-7" width="1870" height="1088" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -737,7 +721,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16862956" sideWeight="0.6608961" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33910388" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33910388" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -807,116 +791,118 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/string/BetterReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="48" selection-start="839" selection-end="839" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/typeinfo/ToyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="0" selection-start="1314" selection-end="1314" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/typeinfo/PrintSuperClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="49" selection-start="321" selection-end="321" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/typeinfo/CharArrayIsObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="34" selection-start="218" selection-end="218" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/typeinfo/factory/Factory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="14" selection-start="158" selection-end="158" vertical-scroll-proportion="0.19501625" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/typeinfo/TypeCounter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="32" selection-start="1355" selection-end="1355" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/typeinfo/Part.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="48" selection-start="584" selection-end="584" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/typeinfo/RegisteredFactories.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="4" selection-start="309" selection-end="309" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/typeinfo/ShowMethods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="42" selection-start="1345" selection-end="1345" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/typeinfo/Interface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="32" selection-start="192" selection-end="192" vertical-scroll-proportion="0.37288135">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/typeinfo/DynamicProxyHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="42" selection-start="1319" selection-end="1319" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/typeinfo/nullobject/Null.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="113" selection-end="113" vertical-scroll-proportion="0.1516793">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/typeinfo/nullobject/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="54" selection-start="736" selection-end="736" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/typeinfo/nullobject/Position.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="45" selection-start="567" selection-end="567" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/typeinfo/nullobject/Staff.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="43" column="41" selection-start="1208" selection-end="1208" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/typeinfo/HiddenMethods.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="22" selection-start="41" selection-end="41" vertical-scroll-proportion="0.043336947">
+        <state line="2" column="22" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generics/TwoTuple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="20" selection-start="361" selection-end="361" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generics/TupleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="19" selection-start="490" selection-end="490" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generics/LinkedStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="39" selection-start="825" selection-end="825" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generics/RandomList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="39" selection-start="661" selection-end="661" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generics/Generator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="15" selection-start="121" selection-end="121" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generics/coffee/Mocha.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="33" selection-start="171" selection-end="171" vertical-scroll-proportion="0.33898306">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generics/coffee/Latte.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="31" selection-start="169" selection-end="169" vertical-scroll-proportion="0.3241491">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generics/coffee/Americano.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="37" selection-start="175" selection-end="175" vertical-scroll-proportion="0.3241491">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generics/coffee/Breve.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="32" selection-start="170" selection-end="170" vertical-scroll-proportion="0.3241491">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generics/coffee/Coffee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="4" selection-start="301" selection-end="301" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generics/coffee/CoffeeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="41" selection-start="1142" selection-end="1142" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generics/Fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="1" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generics/IterableFibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="32" selection-start="1233" selection-end="1233" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/generics/GenericMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="450" selection-end="450" vertical-scroll-proportion="0.6440678">
           <folding />
         </state>
       </provider>
