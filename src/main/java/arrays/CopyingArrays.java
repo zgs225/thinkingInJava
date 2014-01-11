@@ -1,3 +1,5 @@
+package arrays;
+
 import utils.PrintUtil;
 
 import java.util.Arrays;
