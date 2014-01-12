@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6a8c2c4-942e-494c-a849-e7858f4eeb27" name="Default" comment="ArrayCopy">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/utils/CollectionData.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/CollectionDataTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/containers/FillingLists.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/Increase.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/utils/MapData.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/containers/MapDataTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/utils/Pair.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/CopyingArrays.java" afterPath="$PROJECT_DIR$/src/main/java/arrays/CopyingArrays.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/thinkingInJava.iml" afterPath="$PROJECT_DIR$/thinkingInJava.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/utils/Deque.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/containers/DequeTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/containers/ToDoList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/containers/TypesForSets.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/utils/PrintUtil.java" afterPath="$PROJECT_DIR$/src/main/java/utils/PrintUtil.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ThinkingInJava.iws" />
@@ -81,50 +76,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="CopyingArrays.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/arrays/CopyingArrays.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="51" selection-start="481" selection-end="481" vertical-scroll-proportion="0.0" vertical-offset="380" max-vertical-offset="560">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ComparingArrays.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/arrays/ComparingArrays.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="6" selection-start="23" selection-end="23" vertical-scroll-proportion="0.0" vertical-offset="40" max-vertical-offset="600">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CompType.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/arrays/CompType.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="50" selection-start="803" selection-end="803" vertical-scroll-proportion="0.0" vertical-offset="578" max-vertical-offset="1280">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Increase.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Increase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="29" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="FillingLists.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/containers/FillingLists.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="35" selection-start="632" selection-end="632" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#497#512#0" expanded="true" />
-              </folding>
+            <state line="29" column="35" selection-start="632" selection-end="632" vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="585">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -132,10 +88,8 @@
       <file leaf-file-name="CollectionData.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/utils/CollectionData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="52" selection-start="490" selection-end="490" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="17" column="52" selection-start="490" selection-end="490" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="390">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -143,11 +97,8 @@
       <file leaf-file-name="CollectionDataTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/CollectionDataTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="61" selection-start="421" selection-end="421" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#300#308#0" expanded="true" />
-              </folding>
+            <state line="14" column="61" selection-start="421" selection-end="421" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="450">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -155,7 +106,7 @@
       <file leaf-file-name="Pair.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/utils/Pair.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="32" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+            <state line="10" column="32" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="315">
               <folding />
             </state>
           </provider>
@@ -164,7 +115,16 @@
       <file leaf-file-name="MapData.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/utils/MapData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="45" selection-start="1708" selection-end="1708" vertical-scroll-proportion="0.0" vertical-offset="423" max-vertical-offset="990">
+            <state line="56" column="45" selection-start="1708" selection-end="1708" vertical-scroll-proportion="0.0" vertical-offset="840" max-vertical-offset="990">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MapDataTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/containers/MapDataTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="22" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0" vertical-offset="123" max-vertical-offset="825">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -172,12 +132,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MapDataTest.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/containers/MapDataTest.java">
+      <file leaf-file-name="TypesForSets.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/containers/TypesForSets.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="55" selection-start="311" selection-end="311" vertical-scroll-proportion="0.14529915" vertical-offset="123" max-vertical-offset="825">
+            <state line="22" column="4" selection-start="509" selection-end="509" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1305">
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Deque.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/utils/Deque.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="55" selection-start="624" selection-end="624" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DequeTest.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/containers/DequeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="17" selection-start="460" selection-end="460" vertical-scroll-proportion="0.42735043" vertical-offset="0" max-vertical-offset="702">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#408#417#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -350,6 +331,11 @@
         <option value="$PROJECT_DIR$/src/main/java/utils/Pair.java" />
         <option value="$PROJECT_DIR$/src/main/java/utils/MapData.java" />
         <option value="$PROJECT_DIR$/src/main/java/containers/MapDataTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/containers/TypesForSets.java" />
+        <option value="$PROJECT_DIR$/src/main/java/containers/ToDoList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/Deque.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/PrintUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/containers/DequeTest.java" />
       </list>
     </option>
   </component>
@@ -722,62 +708,6 @@
               <option name="myItemId" value="containers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MapDataTest.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thinkingInJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thinkingInJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="containers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thinkingInJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="thinkingInJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="arrays" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -807,74 +737,14 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
     <property name="LayoutCode.rearrangeEntriesJava" value="false" />
+    <property name="SearchEverywhereHistory" value="eq" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="utils" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MapDataTest">
-    <configuration default="false" name="CompType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="arrays.CompType" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="thinkingInJava" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Increase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Increase" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="thinkingInJava" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="FillingLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="containers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="containers.FillingLists" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="thinkingInJava" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.DequeTest">
     <configuration default="false" name="CollectionDataTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="CollectionDataTest" />
@@ -900,6 +770,72 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="containers.MapDataTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="thinkingInJava" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TypesForSets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="containers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="containers.TypesForSets" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="thinkingInJava" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ToDoList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="containers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="containers.ToDoList" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="thinkingInJava" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="DequeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="containers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="containers.DequeTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1135,19 +1071,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.CompType" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Increase" />
-      <item index="2" class="java.lang.String" itemvalue="Application.FillingLists" />
-      <item index="3" class="java.lang.String" itemvalue="Application.CollectionDataTest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.MapDataTest" />
+      <item index="0" class="java.lang.String" itemvalue="Application.CollectionDataTest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.MapDataTest" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TypesForSets" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ToDoList" />
+      <item index="4" class="java.lang.String" itemvalue="Application.DequeTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.MapDataTest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.CollectionDataTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.FillingLists" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Increase" />
-        <item index="4" class="java.lang.String" itemvalue="Application.CompType" />
+        <item index="0" class="java.lang.String" itemvalue="Application.DequeTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ToDoList" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TypesForSets" />
+        <item index="3" class="java.lang.String" itemvalue="Application.MapDataTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application.CollectionDataTest" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1171,7 +1107,9 @@
       <workItem from="1389009222163" duration="5099000" />
       <workItem from="1389182649612" duration="753000" />
       <workItem from="1389406476663" duration="2947000" />
-      <workItem from="1389442006529" duration="5779000" />
+      <workItem from="1389442006529" duration="6259000" />
+      <workItem from="1389529177291" duration="606000" />
+      <workItem from="1389529853492" duration="5706000" />
     </task>
     <task id="LOCAL-00001" summary="CountingGenerator">
       <created>1389013739894</created>
@@ -1189,7 +1127,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19774000" />
+    <option name="totallyTimeSpent" value="26566000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -1199,7 +1137,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934928" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1258,49 +1196,14 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/generics/IterableFibonacci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="31" selection-start="1233" selection-end="1233" vertical-scroll-proportion="0.0" vertical-offset="840" max-vertical-offset="975" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/generics/GenericMethods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="450" selection-end="450" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="390">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/generics/Generators.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="47" selection-start="558" selection-end="558" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="510">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/generics/BasicGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="42" selection-start="536" selection-end="536" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/utils/Sets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="57" selection-start="800" selection-end="800" vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="615">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/generics/WatercolorSets.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="103" selection-start="333" selection-end="333" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="330">
-          <folding />
-        </state>
+        <state line="13" column="103" selection-start="333" selection-end="333" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="330" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/generics/BankTeller.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="30" selection-start="626" selection-end="626" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="915">
-          <folding />
-        </state>
+        <state line="23" column="30" selection-start="626" selection-end="626" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="915" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/generics/Store.java">
@@ -1310,9 +1213,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/generics/ClassTypeCapture.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="43" selection-start="814" selection-end="814" vertical-scroll-proportion="0.0" vertical-offset="183" max-vertical-offset="885">
-          <folding />
-        </state>
+        <state line="35" column="43" selection-start="814" selection-end="814" vertical-scroll-proportion="0.0" vertical-offset="183" max-vertical-offset="885" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/generics/BasicBounds.java">
@@ -1327,16 +1228,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/generics/GenericMethods.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="450" selection-end="450" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="390">
-          <folding />
-        </state>
+        <state line="19" column="0" selection-start="450" selection-end="450" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="390" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/generics/Generators.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="47" selection-start="558" selection-end="558" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="510">
-          <folding />
-        </state>
+        <state line="23" column="47" selection-start="558" selection-end="558" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="510" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/generics/BasicGenerator.java">
@@ -1353,16 +1250,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/generics/WatercolorSets.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="103" selection-start="333" selection-end="333" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="330">
-          <folding />
-        </state>
+        <state line="13" column="103" selection-start="333" selection-end="333" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="330" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/generics/BankTeller.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="30" selection-start="626" selection-end="626" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="915">
-          <folding />
-        </state>
+        <state line="23" column="30" selection-start="626" selection-end="626" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="915" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/generics/Store.java">
@@ -1372,9 +1265,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/generics/ClassTypeCapture.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="43" selection-start="814" selection-end="814" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="885">
-          <folding />
-        </state>
+        <state line="35" column="43" selection-start="814" selection-end="814" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="885" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/generics/BasicBounds.java">
@@ -1419,16 +1310,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/generics/GenericMethods.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="450" selection-end="450" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <folding />
-        </state>
+        <state line="19" column="0" selection-start="450" selection-end="450" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/generics/Generators.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="47" selection-start="558" selection-end="558" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <folding />
-        </state>
+        <state line="23" column="47" selection-start="558" selection-end="558" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/generics/BasicGenerator.java">
@@ -1445,16 +1332,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/generics/WatercolorSets.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="103" selection-start="333" selection-end="333" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <folding />
-        </state>
+        <state line="13" column="103" selection-start="333" selection-end="333" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/generics/BankTeller.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="30" selection-start="626" selection-end="626" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="915">
-          <folding />
-        </state>
+        <state line="23" column="30" selection-start="626" selection-end="626" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="915" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/generics/Store.java">
@@ -1488,9 +1371,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/generics/ClassTypeCapture.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="0" selection-start="558" selection-end="558" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1120">
-          <folding />
-        </state>
+        <state line="28" column="0" selection-start="558" selection-end="558" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1120" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/GeneratorTest.java">
@@ -1536,29 +1417,21 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/containers/FillingLists.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="29" column="35" selection-start="632" selection-end="632" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#497#512#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/utils/CollectionData.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="52" selection-start="490" selection-end="490" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/CollectionDataTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="61" selection-start="421" selection-end="421" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#300#308#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1572,17 +1445,57 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/utils/MapData.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="56" column="45" selection-start="1708" selection-end="1708" vertical-scroll-proportion="0.0" vertical-offset="423" max-vertical-offset="990">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/containers/MapDataTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="22" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0" vertical-offset="123" max-vertical-offset="825">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/containers/MapDataTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/containers/ToDoList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="55" selection-start="311" selection-end="311" vertical-scroll-proportion="0.14529915" vertical-offset="123" max-vertical-offset="825">
+        <state line="10" column="0" selection-start="157" selection-end="157" vertical-scroll-proportion="0.21367522" vertical-offset="0" max-vertical-offset="885">
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/containers/TypesForSets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="4" selection-start="509" selection-end="509" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1305">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/Deque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="55" selection-start="624" selection-end="624" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/PrintUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="170" selection-end="170" vertical-scroll-proportion="0.25641027" vertical-offset="0" max-vertical-offset="702">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/containers/DequeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="17" selection-start="460" selection-end="460" vertical-scroll-proportion="0.42735043" vertical-offset="0" max-vertical-offset="702">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#408#417#0" expanded="true" />
           </folding>
         </state>
       </provider>
