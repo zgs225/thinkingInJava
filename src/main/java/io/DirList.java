@@ -12,6 +12,10 @@ import java.util.regex.Pattern;
  * Display a directory listing using regular expressions
  */
 public class DirList {
+    public static long SIZE = 0;
+    public static long FILE_COUNT = 0;
+    public static long DIR_COUNT = 0;
+
     public static void main(String[] args) {
         File path = new File(".");
         String[] list;
@@ -20,8 +24,22 @@ public class DirList {
         else
             list = path.list(new DirFilter(args[0]));
         Arrays.sort(list, String.CASE_INSENSITIVE_ORDER);
-        for (String dirItem : list)
-            PrintUtil.print(dirItem);
+        evalSize(path);
+        PrintUtil.print("Total files size: " + SIZE);
+        PrintUtil.print("Total file counts: " + FILE_COUNT);
+        PrintUtil.print("Total directory counts: " + DIR_COUNT);
+    }
+
+    public static void evalSize(File f) {
+        if (!f.isDirectory()) {
+            SIZE += f.length();
+            PrintUtil.print(f.getName());
+            FILE_COUNT++;
+        } else {
+            DIR_COUNT++;
+            for (File file : f.listFiles())
+                evalSize(file);
+        }
     }
 }
 
