@@ -37,4 +37,8 @@ public class PrintUtil {
     public static void print() {
         System.out.println();
     }
+
+    public static void print(Character c) {
+        System.out.println(c);
+    }
 }
