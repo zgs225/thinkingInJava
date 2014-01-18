@@ -82,6 +82,6 @@ public final class Directory {
             PrintUtil.print(walk("."));
         else
             for (String arg : args)
-                PrintUtil.print(arg);
+                PrintUtil.print(walk(arg));
     }
 }
