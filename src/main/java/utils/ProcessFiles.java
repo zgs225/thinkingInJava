@@ -5,6 +5,8 @@ import java.io.IOException;
 
 /**
  * Created by yuez on 14-1-18.
+ * Scanning a directory and its children,
+ * and processing them one by one;
  */
 public class ProcessFiles {
     public interface Strategy {

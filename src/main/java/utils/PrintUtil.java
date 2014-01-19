@@ -1,6 +1,7 @@
 package utils;
 
 import java.util.Collection;
+import java.util.Map;
 
 /**
  * Created with IntelliJ IDEA.
@@ -40,5 +41,9 @@ public class PrintUtil {
 
     public static void print(Character c) {
         System.out.println(c);
+    }
+
+    public static void print(Map map) {
+        System.out.println(map);
     }
 }
