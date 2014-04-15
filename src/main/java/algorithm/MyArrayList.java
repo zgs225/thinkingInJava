@@ -56,8 +56,6 @@ public class MyArrayList<T> implements Iterable<T> {
     }
 
     public T remove(int idx) {
-        if (idx < 0 || idx > size())
-            throw new ArrayIndexOutOfBoundsException();
         T removedItem = theItems[idx];
         System.arraycopy(theItems, idx + 1, theItems, idx, size() - idx);
         theSize--;

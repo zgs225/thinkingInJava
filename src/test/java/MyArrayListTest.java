@@ -20,5 +20,8 @@ public class MyArrayListTest {
 
         list.remove(0);
         Assert.assertNotEquals((long) 0, (long) list.get(0));
+
+        list.add(4, 10);
+        Assert.assertEquals((long) 10, (long) list.get(4));
     }
 }
