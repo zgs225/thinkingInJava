@@ -1,0 +1,28 @@
+1: package io;
+2: 
+3: import utils.PrintUtil;
+4: 
+5: import java.io.BufferedReader;
+6: import java.io.IOException;
+7: import java.io.PrintWriter;
+8: import java.io.StringReader;
+9: 
+10: /**
+11:  * Created by yuez on 14-1-19.
+12:  *
+13:  */
+14: public class FileOutputShortcut {
+15:     static String file = "FileOutputShortcut.out";
+16:     public static void main(String[] args) throws IOException {
+17:         BufferedReader in = new BufferedReader(
+18:                 new StringReader(BufferedInputFile.read("src/main/java/io/FileOutputShortcut.java"))
+19:         );
+20:         PrintWriter out = new PrintWriter(file);
+21:         int lineCount = 1;
+22:         String s;
+23:         while((s = in.readLine()) != null)
+24:             out.println(lineCount++ + ": " + s);
+25:         out.close();
+26:         PrintUtil.print(BufferedInputFile.read(file));
+27:     }
+28: }

@@ -2,3 +2,8 @@ build/
 *.log
 out/
 .idea/
+.gradle/
+gradle/
+*.iml
+*.ipr
+*.iws
