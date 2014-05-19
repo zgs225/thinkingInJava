@@ -4,6 +4,7 @@ import generics.Generator;
 
 /**
  * Created by yuez on 14-1-6.
+ * 产生顺序序列的实现Generator接口的对象
  */
 public class CountingGenerator {
     public static class Boolean implements Generator<java.lang.Boolean> {
